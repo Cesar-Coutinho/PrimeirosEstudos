@@ -1,0 +1,7 @@
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\bin\Debug\Morse.exe.config
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\bin\Debug\Morse.exe
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\bin\Debug\Morse.pdb
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\obj\Debug\Morse.csproj.AssemblyReference.cache
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\obj\Debug\Morse.exe
+C:\Users\ccoutinho\Desktop\Curso\Morse\Morse\obj\Debug\Morse.pdb
